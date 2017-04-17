@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://fox321.github.io/</loc>
+    <lastmod>2017-04-17T18:18:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fox321.github.io/create-blog-by-hugo/</loc>
+    <lastmod>2017-04-17T18:18:09+08:00</lastmod>
+  </url>
+  
+</urlset>
